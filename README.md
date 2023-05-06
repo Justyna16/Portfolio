@@ -18,7 +18,7 @@ My current position allowed me to develop such skills as analytical thinking and
 
 # Soft Skills 
 - Analytical Thinking
-- Pating attention to detail
+- Paying attention to detail
 - Ability to work in a team
 
 # Courses
