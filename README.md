@@ -63,10 +63,10 @@ My current position allowed me to develop such skills as analytical thinking and
 - [Bankomat](https://docs.google.com/spreadsheets/d/1FXyCV6SpM_DMpX4sO2rPVZH6ar8exiTp/edit?usp=share_link&ouid=104840439575077837301&rtpof=true&sd=true) - testing a desktop application simulating of ATM machine
 
 # Test case examples
-- [Pigment](https://drive.google.com/file/d/1pjvlV89F2WXt83lSZLD5Uvx6GQEzbzrW/view?usp=share_link) - test cases for example website 
+- [Pigment](https://drive.google.com/file/d/1pjvlV89F2WXt83lSZLD5Uvx6GQEzbzrW/view?usp=share_link) - test cases for example website using TestLink
 
 # Bug reports
-- [MrBuggy7](https://drive.google.com/file/d/1QkAKtebdfqrCGwVMoIzzxySeH42HFW9R/view?usp=share_link)
+- [MrBuggy7](https://drive.google.com/file/d/1QkAKtebdfqrCGwVMoIzzxySeH42HFW9R/view?usp=share_link) - bug reports using JIRA
 
 
 
