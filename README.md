@@ -64,6 +64,7 @@ My current position allowed me to develop such skills as analytical thinking and
 # My bug reports
 
 # Projects
+- [Bankomat](https://docs.google.com/spreadsheets/d/1FXyCV6SpM_DMpX4sO2rPVZH6ar8exiTp/edit?usp=share_link&ouid=104840439575077837301&rtpof=true&sd=true) - testing a desktop application simulating of ATM machine
 
 # Selenium Webdriver
 
