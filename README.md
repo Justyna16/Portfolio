@@ -1,6 +1,6 @@
 # About me
 Hi, I’m an ambitious person willing to learn new skills and further acquire knowledge. 
-My current position allowed me to develop such skills as analytical thinking and paying attention to detail. Currently, I'm looking for new challenges related to software testing - junior position/trainee. I'm constatly deepening my knowledge about software testing.
+My current position allowed me to develop such skills as analytical thinking and paying attention to detail. Currently, I'm looking for new challenges related to software testing - junior position/trainee. I'm constantly deepening my knowledge about software testing.
 <br> In this portfolio I would like to share my testing knowledge and technical skills. 
 
 # Tools
