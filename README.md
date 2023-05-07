@@ -59,14 +59,14 @@ My current position allowed me to develop such skills as analytical thinking and
 - Testuj, Dziewczyno!
 - Testowanie oprogramowania - Materiały|Porady
 
-# My test case examples
-
-# My bug reports
-
 # Projects
 - [Bankomat](https://docs.google.com/spreadsheets/d/1FXyCV6SpM_DMpX4sO2rPVZH6ar8exiTp/edit?usp=share_link&ouid=104840439575077837301&rtpof=true&sd=true) - testing a desktop application simulating of ATM machine
 
-# Selenium Webdriver
+# Test case examples
+- [Pigment](https://drive.google.com/file/d/1pjvlV89F2WXt83lSZLD5Uvx6GQEzbzrW/view?usp=share_link) - test cases for example website 
+
+# Bug reports
+- [MrBuggy7](https://drive.google.com/file/d/1QkAKtebdfqrCGwVMoIzzxySeH42HFW9R/view?usp=share_link)
 
 
 
